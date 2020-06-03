@@ -3,7 +3,6 @@
     max-width: 1100px;
     /*Alinhamento de caixa pelo lado de fora*/
     margin: 0 auto;
-
 }
 
 #page-create-point header {
@@ -64,9 +63,8 @@ form .field-group {
     display: flex;
 }
 
-form input,
-form select {
-    background-color: #f0f0f5;
+form input, form select {
+    background-color: var(--primary-background);
     border: 0;
     padding: 16px 24px;
     font-size: 16px;
@@ -85,7 +83,7 @@ form label {
     margin-bottom: 8px;
 }
 
-form .field-group .field + .field {
+form .field-group .field+.field {
     margin-left: 24px;
 }
 
@@ -140,7 +138,6 @@ form button:hover {
     border: 2px solid #34cb79;
 }
 
-.items-grid li img,
-.items-grid li span {
+.items-grid li img, .items-grid li span {
     pointer-events: none;
 }
