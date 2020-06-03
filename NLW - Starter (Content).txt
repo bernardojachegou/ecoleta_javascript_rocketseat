@@ -1,0 +1,26 @@
+#primeiro-dia
+* Criação da página inicial
+* Criação de variáveis no CSS
+* Posicionamento de divs com display-flex
+* Responsividade
+
+#segundo-dia
+* Refatoramento de código
+* Responsividade
+* Manipulação de cores no svg (stroke)
+* Criação de formulário
+* Estilização de formulário
+* Criação da lógica da página com JS (consumo de API)
+
+#terceiro dia
+* Resolvendo bugs
+* Criação de lista com ítens de coleta
+* Posicionamento de ítens com diplay-grid
+* Lógica de seleção de ítens no frontend
+* Criação da pagina modal
+* Estilização  do Modal
+* Criação da página de resultados
+* Posicionamento de background - Eixo Z
+* Configuração de img com object-fit
+* Responsividade
+
