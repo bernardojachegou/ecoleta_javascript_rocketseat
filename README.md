@@ -23,16 +23,17 @@ A semana NextLevelWeek foi uma iniciativa da Rocketseat com o objetivo de levar 
   <li>Nodemon</li>
   <li>Express</li>
   <li>Nunjucks</li>
+  <li>SQLite3</li>
  </ul>
  
 ## :computer: Rodando o projeto:
 
 1 - Clone o projeto e o abra utilizando seu editor preferido.
 
-2 - 
+2 - Rode um npm install na pasta do projeto.
 
-3 - 
+3 - Rode um npm start para rodar o projeto.
 
-4 - 
+4 - Abra o projeto na porta:3000.
 
 5 - Curta o projeto!

@@ -65,10 +65,12 @@ function handleSelectedItem(event) {
 
     const itemId = itemLi.dataset.id;
 
+    // console.log("ITEM ID: ", itemId);
+
     //Verificar se existem itens selecionados, se sim
     //Pegar os itens selecionados
 
-    const alreadySelected = selectedItems.findIndex(item =>  {
+    const alreadySelected = selectedItems.findIndex(item => {
         const itemFound = item == itemId
         return itemFound;
     })
@@ -84,7 +86,7 @@ function handleSelectedItem(event) {
         //Se não tiver selecionador, adiciona a seleção
         selectedItems.push(itemId);
     }
-    console.log(selectedItems);
+    // console.log("SELECTED ITEMS:", selectedItems);
 
     //Atualizar com campo hidden com os itens selecionados
     collectedItems.value = selectedItems;
