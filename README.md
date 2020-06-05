@@ -20,9 +20,9 @@ A semana NextLevelWeek foi uma iniciativa da Rocketseat com o objetivo de levar 
   <li>HTML</li>
   <li>CSS</li>
   <li>Node.js</li>
-  <li>Em breve</li>
-  <li>Em breve</li>
-  <li>Em breve</li>
+  <li>Nodemon</li>
+  <li>Express</li>
+  <li>Nunjucks</li>
  </ul>
  
 ## :computer: Rodando o projeto:
