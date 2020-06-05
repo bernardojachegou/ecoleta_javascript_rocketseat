@@ -1,0 +1,27 @@
+{
+  "name": "ecoleta_javascript_rocketseat",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r     <img alt=\"preview application\" src=\"https://imgur.com/p8avILn.png\" width=\"600px\"/>\r </h1>",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardojachegou/ecoleta_javascript_rocketseat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernardojachegou/ecoleta_javascript_rocketseat/issues"
+  },
+  "homepage": "https://github.com/bernardojachegou/ecoleta_javascript_rocketseat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

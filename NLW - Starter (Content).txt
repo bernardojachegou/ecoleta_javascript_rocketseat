@@ -14,13 +14,23 @@
 
 #terceiro dia
 * Resolvendo bugs
-* Criação de lista com ítens de coleta
-* Posicionamento de ítens com diplay-grid
-* Lógica de seleção de ítens no frontend
+* Criação de lista com itens de coleta
+* Posicionamento de itens com diplay-grid
+* Lógica de seleção de itens no frontend
 * Criação da pagina modal
-* Estilização  do Modal
+* Estilização do Modal
 * Criação da página de resultados
 * Posicionamento de background - Eixo Z
 * Configuração de img com object-fit
 * Responsividade
 
+#quarto dia
+* Iniciando o backend da aplicação
+* Instalação do node.js/express/nodemon/nunjucks
+* Configurando o servidor (rotas)
+* Configurando nodemon para atualização do servidor
+* Organização de pastas src-views/public
+* Utilização de njk no código
+* Criação de arquivos repetitivos (Partials)
+* Criação de layouyt com n-block(njk)
+* Sistema Full MVC
