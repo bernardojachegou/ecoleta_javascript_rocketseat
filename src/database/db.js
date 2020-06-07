@@ -5,7 +5,7 @@ const sqlite3 = require("sqlite3").verbose();
 const db = new sqlite3.Database("./src/database/database.db");
 
 module.exports = db;
-//Utilizar o bando de dados para as operações 
+//Utilizar o banco de dados para as operações 
 db.serialize(() => {
 
     // //Criar tabela
@@ -45,7 +45,7 @@ db.serialize(() => {
     //     "Resíduos Eletrônicos"
     // ];
 
-    // //Função que verifica se há erros no inserção de valores
+    //Função que verifica se há erros no inserção de valores
     // function afterInsertData(err) {
     //     if (err) {
     //         return console.log(err)
@@ -67,7 +67,7 @@ db.serialize(() => {
     //     console.log(rows);
     // });
 
-    // // Deletar dados da tabela
+    // Deletar dados da tabela
     // db.run(` DELETE FROM places WHERE id = ? `, [8], function(err) {
     //     if (err) {
     //         return console.log(err)
