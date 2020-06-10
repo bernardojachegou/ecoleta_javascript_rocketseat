@@ -37,6 +37,6 @@
 
 3 - Rode um `npm start` para rodar o projeto.
 
-4 - Abra o projeto na porta:3000.
+4 - Abra o projeto em `localhost:3000`
 
 5 - Curta o projeto!
