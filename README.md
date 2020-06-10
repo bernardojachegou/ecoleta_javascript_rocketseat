@@ -9,8 +9,11 @@
 ## :book: Sobre o projeto:
 
 <p> Projeto Criado em Junho de 2020.
+    A semana NLW foi uma iniciativa da Rocketseat com o objetivo de levar o desenvolvedor a outro de nível em sua tragetória. As aulas foram elaboradas para iniciantes na trilha starter com a criação de um sistema full MVC e para intermediários/avançados na trilha booster utilizando Nodejs, Reactjs e React Native. 
+</p>
 
-A semana NextLevelWeek foi uma iniciativa da Rocketseat com o objetivo de levar o desenvolvedor a outro de nível em sua tragetória. As aulas foram elaboradas para iniciantes na trilha starter e para intermediários/avançados na trilha booster.
+<p>
+    Neste projeto foi elaborado uma aplicação com o intuito de cadastrar pontos de coletas em diferentes cidades do Brasil (Utilizando uma API) para facilitar a vida de pessoas que colaboram com esse tipo de trabalho.
 </p>
 
  ## :iphone: Tecnologias e ferramentas:
